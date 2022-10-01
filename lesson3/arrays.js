@@ -32,3 +32,9 @@ for (let el in a) {
 //____
 const arr4 = [];
 arr4.push(3);
+
+// spread
+
+const arr5 = [...arr3];
+console.log("arr5: ", arr5);
+console.log(arr3, arr5, arr3 === arr5);
