@@ -28,3 +28,7 @@ console.log("\n");
 for (let el in a) {
   console.log(el);
 }
+
+//____
+const arr4 = [];
+arr4.push(3);
